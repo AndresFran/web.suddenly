@@ -1261,7 +1261,7 @@ CONTACT ONE
     color: #000f11;
 }
 #contact-one #collaboration-mail{
-    width: 35%;
+    width: 20%;
     font-family: camel;
     height: auto;
     position: relative;
@@ -1286,12 +1286,8 @@ CONTACT ONE
     color: rgb(240,240,240,.7);
 }
 @keyframes rotate {
-    0%{
-        transform: rotate(0deg);
-    }
-    100%{
-        transform: rotate(360deg);
-    }
+    from { transform: rotate(0deg)  translate(-50px) rotate(0deg); }
+    to { transform: rotate(360deg) translate(-50px) rotate(-360deg); }
 }
 @-webkit-keyframes rotate{
     0%{
