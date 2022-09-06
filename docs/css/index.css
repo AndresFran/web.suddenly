@@ -1499,7 +1499,19 @@ BLOG-SINGLE-ONE
 
 /* DISPLAY ON MOBILE */
 @media all and (max-width: 675px) and (min-width: 0px){
-
+    
+    
+    .bg-video {
+        position: fixed;
+        top: 50%;
+        left: 50%;
+        min-width: 100%;
+        min-height: 100%;
+        width: auto;
+        height: auto;
+        transform: translateX(-50%) translateY(-50%);
+        z-index: 0;
+      }
 
 
 
