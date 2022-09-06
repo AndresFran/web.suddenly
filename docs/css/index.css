@@ -1586,6 +1586,18 @@ COMMON
     z-index: 2;
 }
 
+.bg-video {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    min-width: 100%;
+    min-height: 100%;
+    width: auto;
+    height: auto;
+    transform: translateX(-50%) translateY(-50%);
+    z-index: 0;
+}
+
 #index-one .new-release{
     width:190px;
 }
@@ -1973,6 +1985,18 @@ COMMON
     font-family: monument;
     font-size: 12px;
     transition: all .4s cubic-bezier(0.165, 0.84, 0.44, 1);
+}
+
+.bg-video {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    min-width: 100%;
+    min-height: 100%;
+    width: auto;
+    height: auto;
+    transform: translateX(-50%) translateY(-50%);
+    z-index: 0;
 }
 /*====================================
 COMMON
