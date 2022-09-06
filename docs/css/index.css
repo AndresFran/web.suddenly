@@ -137,7 +137,7 @@ body{
     font-weight: bolder;
     background: url(../images/azar-portada.jpeg); /*HEADER BACKGROUND IMAGE*/
     background-position: center;
-    background-size: cover;
+    background-size:auto;
 }
 .navigation{
     width: 100%;
@@ -150,6 +150,18 @@ body{
    
     font-size: 20px;
 }
+
+.bg-video {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    min-width: 100%;
+    min-height: 100%;
+    width: auto;
+    height: auto;
+    transform: translateX(-50%) translateY(-50%);
+    z-index: 0;
+  }
 .menu-bar{
     position: absolute;
     right: 5%;
