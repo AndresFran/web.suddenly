@@ -355,7 +355,7 @@ a{
     flex-direction: row;
 }
 .social-media-links ul li , .social-media-links-navigation ul li{
-    padding: 10px;
+    padding: 8px;
     list-style: none;
     font-size: 20px;
 }
