@@ -830,7 +830,7 @@ ABOUT ONE
 }
 #about-one .about-text-heading{
     font-size: 34px;
-    text-align: left;
+    text-align: center;
     font-family: poppins;
     font-weight: 200;
     margin: 20px;
@@ -844,7 +844,7 @@ ABOUT ONE
     padding: 20px;
     margin: 20px;
     margin-top: 0px;
-    text-align: left;
+    text-align: justify;
     opacity: .7;
 }
 #about-one .signature{
