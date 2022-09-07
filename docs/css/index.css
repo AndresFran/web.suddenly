@@ -136,8 +136,8 @@ body{
     font-family: Josefin sans;
     font-weight: bolder;
     background: url(../images/azar6.jpeg); /*HEADER BACKGROUND IMAGE*/
-    background-position: center;
-    background-size:auto;
+    background-position:center;
+    background-size:cover;
 }
 .navigation{
     width: 100%;
@@ -349,7 +349,7 @@ a{
     display: flex;
     align-items: center;
     justify-content: center;
-    flex-direction: row;
+    flex-direction:row;
 }
 .social-media-links-navigation ul{
     flex-direction: row;
@@ -1504,7 +1504,7 @@ BLOG-SINGLE-ONE
     .bg-video {
         position: fixed;
         top: 50%;
-        left: 50%;
+        left: 60%;
         min-width: 100%;
         min-height: 100%;
         width: auto;
