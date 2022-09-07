@@ -385,7 +385,7 @@ a{
     color: rgb(240,240,240,.6);
     font-size: 50px;
     font-weight: 200;
-    font-family:josefin sans;
+    font-family: josefin sans;
     transition: all .4s ease;
     z-index: 3;
     position: relative;
