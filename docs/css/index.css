@@ -136,7 +136,7 @@ body{
     font-family: Josefin sans;
     font-weight: bolder;
     background: url(../images/azar6.jpeg); /*HEADER BACKGROUND IMAGE*/
-    background-position:center;
+    background-position:25%;
     background-size:cover;
 }
 .navigation{
