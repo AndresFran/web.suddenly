@@ -131,7 +131,7 @@ body{
     height: 100vh;
     width: 100%;
     overflow: hidden;
-    color: rgb(240, 240, 240);
+    color: rgba(255,102,0,255);
     font-weight: 200;
     font-family: Josefin sans;
     font-weight: bolder;
@@ -321,7 +321,7 @@ a{
     position: fixed;
     left: 0;
     top: 0;
-    height: 160vh;
+    height: 150vh;
     width: 55%;
     font-family: josefin sans;
     display: flex;
@@ -334,7 +334,7 @@ a{
 .social-media-links-navigation{
     position: absolute;
     right: 0;
-    bottom: 0%;
+    bottom: 5%;
     height: 12vh;
     width: 20%;
     display: flex;
