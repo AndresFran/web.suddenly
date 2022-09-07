@@ -131,7 +131,7 @@ body{
     height: 100vh;
     width: 100%;
     overflow: hidden;
-    color: rgb(240,240,240);
+    color: rgb(240, 240, 240);
     font-weight: 200;
     font-family: Josefin sans;
     font-weight: bolder;
@@ -185,7 +185,7 @@ body{
     width: 30px;
     height: 3px;
     opacity: 0;
-    background: rgb(240,240,240);
+    background: rgb(212, 148, 28);
     position: relative;
     margin: 3px;
 }
@@ -218,7 +218,7 @@ a{
     transition: 0.8s;
 }
 .text.reveal , .text-scroll.reveal{
-    color: rgb(240,240,240);
+    color: rgb(212, 148, 28);
     animation: revealTextAnimation 0.80s ease forwards;
 }
 .text:before ,.text-scroll:before {
