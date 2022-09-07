@@ -185,7 +185,7 @@ body{
     width: 30px;
     height: 3px;
     opacity: 0;
-    background: rgb(212, 148, 28);
+    background: rgba(255,102,0,255);
     position: relative;
     margin: 3px;
 }
@@ -218,7 +218,7 @@ a{
     transition: 0.8s;
 }
 .text.reveal , .text-scroll.reveal{
-    color: rgb(212, 148, 28);
+    color: rgba(255,102,0,255);
     animation: revealTextAnimation 0.80s ease forwards;
 }
 .text:before ,.text-scroll:before {
@@ -711,14 +711,14 @@ INDEX ONE
     height: auto;
     width:230px;
     position: fixed;
-    right: 2%;
+    right: 1%;
     bottom: 1%;
     background: rgb(240,240,240,0.1);
     backdrop-filter: blur(20px);
     -webkit-backdrop-filter: blur(20px);
     padding: 10px;
     border-radius: 10px;
-    opacity: 0;
+    opacity:50;
 }
 
 #index-one .new-release img{
