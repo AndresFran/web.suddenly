@@ -131,11 +131,11 @@ body{
     height: 100vh;
     width: 100%;
     overflow: hidden;
-    color: rgba(255,102,0,255);
+    color: #ff0000;
     font-weight: 200;
     font-family: Josefin sans;
     font-weight: bolder;
-    background: url(../images/azar6.jpeg); /*HEADER BACKGROUND IMAGE*/
+    background: url(../images/logo-suddenly4.png); /*HEADER BACKGROUND IMAGE*/
     background-position:25%;
     background-size:cover;
 }
@@ -185,7 +185,7 @@ body{
     width: 30px;
     height: 3px;
     opacity: 0;
-    background: rgba(255,102,0,255);
+    background: #ff0000;
     position: relative;
     margin: 3px;
 }
@@ -218,7 +218,7 @@ a{
     transition: 0.8s;
 }
 .text.reveal , .text-scroll.reveal{
-    color: rgba(255,102,0,255);
+    color: #ff0000;
     animation: revealTextAnimation 0.80s ease forwards;
 }
 .text:before ,.text-scroll:before {
