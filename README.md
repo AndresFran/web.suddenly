@@ -1,4 +1,4 @@
-Página web de la banda de Rock Azar, de la Provincia de San Juan.
+Página web de la banda de Rock Cristiano Suddenly, de la Provincia de San Juan.
 
 Entorno simple y fácil de navegar.
 
